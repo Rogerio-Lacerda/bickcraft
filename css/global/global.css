@@ -6,15 +6,16 @@
   list-style: none;
 }
 
+h1 {
+  margin: 0px;
+}
+
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 600px;
+  color: #111;
 }
 
 img {
   max-width: 100%;
   display: block;
-}
-
-a {
-  color: #fff;
 }
