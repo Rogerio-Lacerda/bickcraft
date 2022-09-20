@@ -31,6 +31,7 @@
 .introducao-imagem img {
   height: 100%;
   object-fit: cover;
+  width: 100%;
 }
 
 @media (max-width: 800px) {
@@ -59,7 +60,7 @@
     margin-bottom: 16px;
   }
 
-  .introducao img {
+  .introducao-imagem img {
     height: 300px;
     width: 100%;
   }
