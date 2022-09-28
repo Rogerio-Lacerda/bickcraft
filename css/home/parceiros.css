@@ -35,7 +35,7 @@
   border-top: 2px solid var(--cor-2);
 }
 
-.parceiros li img {
+.parceiros li {
   padding: 40px;
 }
 
@@ -44,7 +44,7 @@
     grid-template-columns: 1fr 1fr;
   }
 
-  .parceiros li img {
+  .parceiros li {
     padding: 20px;
   }
 
