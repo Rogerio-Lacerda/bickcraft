@@ -11,7 +11,7 @@
   transform: translate3d(-20px, 0, 0);
 }
 
-.js .js [data-anime] {
+.js [data-anime] {
   opacity: 0;
 }
 .js .anime {
